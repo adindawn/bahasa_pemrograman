@@ -34,4 +34,9 @@ print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan))
 ````
+fungsi ```PYTHON (input ()) ```` digunakan untuk memasukkan atau informasi ke dalam sistem 
 
+```PYTHON
+(akhir = (int(tugas) * .2) + (int(uts) * .4) + (int(uas) * .4))
+````
+Fungsi 
