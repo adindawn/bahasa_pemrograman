@@ -208,19 +208,46 @@ Program ini akan menentukan harga pesanan tiket bioskop, yang reguler/vip,
 dan jika vip harga 100.000, dan jika reguler 80.000, dan jika memiliki kartu member pelanggan tersebut akan mendapatkan diskon 20%
 
 # Hasil Screenshot dari Visual Studio Code 
+ 
   ![Screenshot (29)](https://github.com/user-attachments/assets/f117e346-8cd9-42e1-a542-46973e1ae65c)
   ![Screenshot (30)](https://github.com/user-attachments/assets/897d0866-dde2-43a4-a032-9206eab8a2d9)
 
 # Hasil Flowchart nya
+  
+  ![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/e0ccf18a-326b-467d-8230-c4a2d4d334bb)
 
 
 
 # Program Kalkulator Sederhana
    ![Screenshot (31)](https://github.com/user-attachments/assets/cfa8108e-0986-4500-9fee-c1af42212ce9)
 
+```PYTHON
+(if operator == '+':
+     hasil = angka1 + angka2
+     print(f"Hasil penjumlahan: {hasil}")
+ elif operator == '-':
+     hasil = angka1 - angak2
+     print(f"Hasil pengurangan: {hasil}")
+ elif operator == '*':
+     hasil = angka1 * angka2
+     print(f"Hasil perkalian: {hasil}")
+ elif operator == '/':
+     if angka2 != 0:
+         hasil = angka1 / angka2
+         print(f"Hasil pembagian: {hasil}")
+     else:
+         print("Error: Pembagian dengan nol tidak diperbolehkan.")
 
+else:
+   print("Error: Operator tidak valid. Silahkan gunakan +, -. *, atau /.")
+```` 
+Program kalkulator sedehana dalam python adalah proyek yang baik untuk pemula dan programmer tingkat lanjut. program ini memungkinkan pengguna untuk melakukan operasi matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian. 
 
+# Hasil dan Pemrogram Screenshot dari Visual Studio Code 
+   ![Screenshot (33)](https://github.com/user-attachments/assets/f52d6458-dc20-4080-b8d8-2c14b0f7170e)
+   ![Screenshot (32)](https://github.com/user-attachments/assets/a3225764-f656-439a-9835-5ad322120020)
 
+# Hasil Flowchart nya
 
 
 
