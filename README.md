@@ -249,6 +249,9 @@ Program kalkulator sedehana dalam python adalah proyek yang baik untuk pemula da
 
 # Hasil Flowchart nya
 
+  ![Untitled Diagram drawio (3)](https://github.com/user-attachments/assets/8f3f8d9e-f22e-41e5-b795-fb791c68ca91)
+
+
 
 
 
