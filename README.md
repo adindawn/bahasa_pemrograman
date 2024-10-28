@@ -93,14 +93,6 @@ Struktur kondisi ini menggunakan if, elif, dan else.
 ````
 inputan ini akan memasukkan gaji, karena memiliki fungsi input()
 
-```PYTHON
-(berkeluarga = (False, True)[input("sudah berkeluarga? (Y/T") == "Y"]
-punya_rumah = (False, True)[input("punya rumah? (Y/T") == "Y"])
-````
-
-inputan ini menggunakan fungsi string yang masukkan beberapa huruf,
-dan (False, True) ini adalah fungsi pemilihan Y/T,
-supaya tidak menggunakan if dilanjutkan program tersebut.
 
 ```PYTHON
 (if berkeluarga:
